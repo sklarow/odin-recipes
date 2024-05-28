@@ -3,13 +3,6 @@
     box-sizing: border-box;
 }
 
-.recipe-image{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-}
-
 h1{
     color:teal;
     text-align: center;
@@ -17,6 +10,13 @@ h1{
 
 li{
     font-style: italic;
+}
+
+.recipe-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
 }
 
 .rounded-border{
